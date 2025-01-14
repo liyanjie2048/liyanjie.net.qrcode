@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "QRCode",
   "resources": {
-    "hash": "sha256-cR3yY+T34MmKCZg4vQGqpvEVsSa8Kjn9OA6/8s6pa9w=",
+    "hash": "sha256-q9KDVryB6Dga4MUi+Ne+KqyW9XgRgS9D+9WERXjr5Rk=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-iLv8jZ6qflGIH/vYNWppdVbmCdtcUBmaRaJF9oO6+I0="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.js": "sha256-nam8JTYKjhMKOTg6+FlihYP6JpWPGe3jjM9fiUFWzhY="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-dfh+KV6yBFtnkihbpbW8qJ5Hdn78wrfdNeCBVVfnrkY="
+      "dotnet.native.wasm": "sha256-hAua9fbDQCbStzED4RBclt+lM3mxK55WSCeoXPzSjk8="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Liyanjie.QRCode.Prettier.wasm": "sha256-7G2VGJGoXT/B4JuBsbGgCxPCwcuhrVs6cm5lpUqN7/4=",
+      "Liyanjie.QRCode.Prettier.wasm": "sha256-he0nuytSXFRb+ocj1SrqIj7Lfc468I83NJAclZg6kIY=",
       "Liyanjie.SvgBuilder.wasm": "sha256-MJ6Hzbm580xEJi3UB2+k2JChyBBWgf0uXb1mQeHopdI=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-mZ9eJW/z6CBl3U2r2hPYPdKr1dy/NeyGcnUtUNfwHco=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-MzR6JS4iWkyvHSrYrVf8eNPyWG4vJE81rfakTxABWvQ=",
