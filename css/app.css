@@ -60,6 +60,10 @@
         content: var(--blazor-load-percentage-text, "Loading");
     }
 
+html, body {
+    scroll-behavior: smooth;
+}
+
 code {
     color: #c02d76;
 }
