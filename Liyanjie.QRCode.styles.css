@@ -1,0 +1,37 @@
+/* /Pages/Home.razor.rz.scp.css */
+.content[b-5bof26aek8] {
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+}
+
+.form-label[b-5bof26aek8] {
+    font-size: 12px;
+}
+
+.sample[b-5bof26aek8] {
+    width: 30px;
+    text-align: center;
+    font-size: 12px;
+}
+
+    .sample > div[b-5bof26aek8] {
+        box-sizing: border-box;
+        height: 30px;
+    }
+
+        .sample > div:empty[b-5bof26aek8] {
+            border: 1px dashed #ccc;
+            background: #f0f0f0;
+        }
+
+        .sample > div.shadow[b-5bof26aek8] {
+            box-shadow: #f00 0 0 2px 1px !important;
+        }
+
+.position-sticky[b-5bof26aek8] {
+    top: calc(240px + 5em);
+}
+
+.form-control-color[b-5bof26aek8] {
+    width: 100%;
+}
